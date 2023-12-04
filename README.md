@@ -18,7 +18,7 @@
 
 01-12-2023
 
-[Presentation Web3](#)
+[Presentation Web3](https://tome.app/tech-talks-k6/introduction-to-web3-clpbnnf9k0hufmt7f8jexppr1?page=l36e5uad5pg08yvebghq36xe)
 
 
 
