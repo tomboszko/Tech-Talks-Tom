@@ -1,5 +1,7 @@
 # TECH-TALKS_TOMS 
 
+# presentations on various tech topics as part of the Becode training program 
+
 ## @Becode #K6
 
 ### 1.Scrum 
