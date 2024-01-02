@@ -1,6 +1,6 @@
 # TECH-TALKS_TOMS 
 
-# presentations on various tech topics as part of the Becode training program 
+# Presentations on various tech topics as part of the Becode training program 
 
 ## @Becode #K6
 
